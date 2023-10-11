@@ -1,0 +1,9 @@
+.flex-container {
+  display: flex;
+  align-items: flex-start;
+
+}
+.nav--container{
+  display: flex;
+  flex-direction: row;
+}
