@@ -1,5 +1,6 @@
 <h2>🔖 Description</h2>
-<p>🔥 React Dashboard <a href="https://dogs-alyssoncarval.vercel.app/" target="_blank">here</p>
+<p>🔥 React Dashboard. <br>
+You can view the site<a href="https://retink-assessment-alyssoncarval.vercel.app/" target="_blank">here</p>
 
 <h2>🚀 Stack</h2>
 <div style="display: inline_block">
@@ -8,6 +9,6 @@
 
 <h2>📷 Screenshots:</h2>
 
-<img src="/public/screenshot-1.png">
+<img src="./src/images/screenshot-1.png">
 
 Made with 🤍 by <a href="https://github.com/alyssoncarval/" target="_blank">Alysson Carvalho</a></p>
